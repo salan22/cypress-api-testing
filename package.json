@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "cypress": "^13.13.3"
+  },
+  "scripts": {
+    "cy:dev": "cross-env CYPRESS_ENV=development cypress open",
+    "cy:staging": "cross-env CYPRESS_ENV=staging cypress open",
+    "cy:run:dev": "cross-env CYPRESS_ENV=development cypress run",
+    "cy:run:staging": "cross-env CYPRESS_ENV=staging cypress run"
+  }
+}

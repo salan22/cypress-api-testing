@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Morpheus Johnson",
+        "job": "Software Engineer"
+    },
+    {
+        "name": "Neo Anderson",
+        "job": "Full Stack Developer",
+        "email": "neo@matrix.com"
+    },
+    {
+        "name": "Trinity Davis",
+        "job": "DevOps Engineer"
+    },
+    {
+        "name": "Agent Smith",
+        "job": "Quality Assurance Engineer",
+        "email": "agent.smith@matrix.com"
+    },
+    {
+        "name": "Oracle Brown",
+        "job": "Project Manager"
+    },
+    {
+        "name": "Cypher Thompson",
+        "job": "System Administrator",
+        "email": "cypher@matrix.com"
+    }
+]
